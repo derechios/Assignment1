@@ -17,3 +17,4 @@ While fields will tell you the correct format if you get them wrong, they will n
 
 There is no log out button. You are trapped in the game. Forever.
 
+I did not sanitize my inputs. Please do not sumbit "||" in any field. It will go... poorly.
